@@ -1,5 +1,5 @@
 # deployment-tools
-***Popular free starter deployment tools list that developer uses to deploy***
+***Popular free starter deployment tools list***
 
 
 - [Zeit](https://zeit.co)
