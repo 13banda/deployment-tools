@@ -12,5 +12,6 @@
 - [Amazon S3](https://aws.amazon.com/s3)
 - [Cloud Front](https://aws.amazon.com/cloudfront/)
 - [Surge](https://surge.sh/)
+- [Scalingo](https://scalingo.com)
 
 contribution and suggestions are always welcome
