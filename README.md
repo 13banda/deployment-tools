@@ -13,5 +13,7 @@
 - [Cloud Front](https://aws.amazon.com/cloudfront/)
 - [Surge](https://surge.sh/)
 - [Scalingo](https://scalingo.com)
+- [Open Shift](https://www.openshift.com/)
+- [Cloud 66](https://www.cloud66.com)
 
 contribution and suggestions are always welcome
