@@ -19,5 +19,10 @@
 - [Amazon Lambda](https://aws.amazon.com/lambda/)
 - [Microsoft Azure](https://azure.microsoft.com)
 - [Google Cloud](https://cloud.google.com/pricing/)
+- [IBM Cloud](https://www.ibm.com/cloud)
+- [Rackspace](https://www.rackspace.com/cloud)
+- [Alibaba Cloud](https://alibabacloud.com)
+- [Digital Reality](https://www.digitalrealty.com/)
+- [Cloud Linux](https://www.cloudlinux.com/)
 
 contribution and suggestions are always welcome
