@@ -15,5 +15,6 @@
 - [Scalingo](https://scalingo.com)
 - [Open Shift](https://www.openshift.com/)
 - [Cloud 66](https://www.cloud66.com)
+- [Digital Ocean](/www.digitalocean.com)
 
 contribution and suggestions are always welcome
