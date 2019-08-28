@@ -25,4 +25,7 @@
 - [Digital Reality](https://www.digitalrealty.com/)
 - [Cloud Linux](https://www.cloudlinux.com/)
 
+## For Startup 
+- [cloud-hosting-platform](https://geekflare.com/cloud-hosting-platform/)
+
 contribution and suggestions are always welcome
