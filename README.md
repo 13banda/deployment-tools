@@ -17,5 +17,6 @@
 - [Cloud 66](https://www.cloud66.com)
 - [Digital Ocean](https://www.digitalocean.com)
 - [Amazon Lambda](https://aws.amazon.com/lambda/)
+- [Microsoft Azure](https://azure.microsoft.com)
 
 contribution and suggestions are always welcome
