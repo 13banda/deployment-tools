@@ -15,6 +15,7 @@
 - [Scalingo](https://scalingo.com)
 - [Open Shift](https://www.openshift.com/)
 - [Cloud 66](https://www.cloud66.com)
-- [Digital Ocean](/www.digitalocean.com)
+- [Digital Ocean](https://www.digitalocean.com)
+- [Amazon Lambda](https://aws.amazon.com/lambda/)
 
 contribution and suggestions are always welcome
