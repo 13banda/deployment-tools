@@ -1,7 +1,7 @@
 # Deployment Tools
 ***Popular free starter deployment tools list***
 
-
+- [Glitch](https://glitch.com)
 - [Zeit](https://zeit.co)
 - [Firebase](https://firebase.google.com/)
 - [Heroku](heroku.com)
@@ -30,5 +30,11 @@
 
 ## For Startup 
 - [cloud-hosting-platform](https://geekflare.com/cloud-hosting-platform/)
+
+
+## Other Interesting Tools
+- [Codepen](https://codepen.io/)
+- [Codesandbox](https://codesandbox.io/)
+- [Thimble](https://thimble.mozilla.org/)
 
 contribution and suggestions are always welcome
