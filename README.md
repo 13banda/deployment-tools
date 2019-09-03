@@ -15,7 +15,7 @@
 - [Surge](https://surge.sh/)
 - [Scalingo](https://scalingo.com)
 
-## other cloud providers
+## Other cloud providers
 
 - [Open Shift](https://www.openshift.com/)
 - [Cloud 66](https://www.cloud66.com)
