@@ -1,5 +1,5 @@
 # Deployment Tools
-***Popular free starter deployment tools list***
+***Free starter deployment tools list***
 
 - [Glitch](https://glitch.com)
 - [Zeit](https://zeit.co)
