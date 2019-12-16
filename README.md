@@ -14,6 +14,7 @@
 - [Cloud Front](https://aws.amazon.com/cloudfront/)
 - [Surge](https://surge.sh/)
 - [Scalingo](https://scalingo.com)
+- [Cloudinary](https://cloudinary.com)
 
 ## Other cloud providers
 
