@@ -2,7 +2,7 @@
 ***Free starter deployment tools list***
 
 - [Glitch](https://glitch.com)
-- [Zeit](https://zeit.co)
+- [vercel](https://vercel.com)
 - [Firebase](https://firebase.google.com)
 - [Heroku](heroku.com)
 - [Infinity](https://infinityfree.net)
@@ -11,6 +11,7 @@
 - [Render](https://render.com/)
 - [Digital Ocean](https://www.digitalocean.com)
 - [Amazon S3](https://aws.amazon.com/s3)
+- [Amazon lightsail](https://aws.amazon.com/lightsail)
 - [Cloud Front](https://aws.amazon.com/cloudfront/)
 - [Surge](https://surge.sh/)
 - [Scalingo](https://scalingo.com)
