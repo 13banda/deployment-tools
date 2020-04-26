@@ -2,7 +2,7 @@
 ***Free starter deployment tools list***
 
 - [Glitch](https://glitch.com)
-- [vercel](https://vercel.com)
+- [Vercel](https://vercel.com)
 - [Firebase](https://firebase.google.com)
 - [Heroku](heroku.com)
 - [Infinity](https://infinityfree.net)
