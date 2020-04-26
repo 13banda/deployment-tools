@@ -10,6 +10,7 @@
 - [Gitub Pages](https://pages.github.com)
 - [Render](https://render.com/)
 - [Digital Ocean](https://www.digitalocean.com)
+- [serverless](https://serverless.com)
 - [Amazon S3](https://aws.amazon.com/s3)
 - [Amazon lightsail](https://aws.amazon.com/lightsail)
 - [Cloud Front](https://aws.amazon.com/cloudfront/)
