@@ -3,6 +3,7 @@
 
 - [Glitch](https://glitch.com)
 - [Vercel](https://vercel.com)
+- [Cloudflare workers](https://workers.cloudflare.com)
 - [Firebase](https://firebase.google.com)
 - [Heroku](heroku.com)
 - [Infinity](https://infinityfree.net)
@@ -17,6 +18,7 @@
 - [Surge](https://surge.sh/)
 - [Scalingo](https://scalingo.com)
 - [Cloudinary](https://cloudinary.com)
+- [Fly](https://fly.io)
 
 ## Other cloud providers
 
